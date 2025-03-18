@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": "0399",
+      "name": "Aryan2",
+      "email": "Aryan@gmail.com",
+      "password": "123123",
+      "conform_password": "123123",
+      "phone": "1234567890"
+    },
+    {
+      "id": "dd99",
+      "name": "Aryan2",
+      "email": "aryan222@gmail.com",
+      "password": "123123",
+      "conform_password": "123123",
+      "phone": "1234567890"
+    },
+    {
+      "id": "94ff",
+      "name": "Aryan2",
+      "email": "aryan222@gmail.com",
+      "password": "123123",
+      "conform_password": "123123",
+      "phone": "1234567890"
+    }
+  ]
+}
